@@ -1,4 +1,6 @@
-## Hi there 👋
+## #OpenToWork 💪🎮
+
+I'm a fearless pathfinder helping teams **take big swings**.  Formerly Diablo IV, Overwatch 2, Destiny 2, Tony Hawk Pro Skater 1+2 Remastered, Skylanders. Find me on [LinkedIn](https://linkedin.com/in/object01).
 
 <!--
 **object01/object01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
